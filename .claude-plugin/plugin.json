@@ -1,0 +1,9 @@
+{
+  "name": "kernel-pmm-skills",
+  "description": "A full product marketing function as 34 Claude skills across 6 stages: Research, Competition, Position, Message, Launch, Measure.",
+  "version": "1.0.0",
+  "author": { "name": "Harsha Kotthapalli", "url": "https://kernelpmm.com" },
+  "homepage": "https://github.com/hkotthapalli/kernel-pmm-skills",
+  "license": "MIT",
+  "keywords": ["product-marketing", "pmm", "go-to-market", "positioning", "messaging", "claude-skills"]
+}

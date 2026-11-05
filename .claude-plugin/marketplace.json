@@ -1,0 +1,11 @@
+{
+  "name": "kernel-pmm-skills",
+  "owner": { "name": "Harsha Kotthapalli", "url": "https://kernelpmm.com" },
+  "plugins": [
+    {
+      "name": "kernel-pmm-skills",
+      "source": "./",
+      "description": "A full product marketing function as 34 Claude skills across 6 stages."
+    }
+  ]
+}
